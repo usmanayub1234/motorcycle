@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/motorcycle/static/css/main.d0be3325.chunk.css",
+    "main.css": "/motorcycle/static/css/main.2e1cafa5.chunk.css",
     "main.js": "/motorcycle/static/js/main.7b09c17a.chunk.js",
     "main.js.map": "/motorcycle/static/js/main.7b09c17a.chunk.js.map",
     "runtime-main.js": "/motorcycle/static/js/runtime-main.82f90447.js",
@@ -9,10 +9,10 @@
     "static/js/2.bda2e7f0.chunk.js": "/motorcycle/static/js/2.bda2e7f0.chunk.js",
     "static/js/2.bda2e7f0.chunk.js.map": "/motorcycle/static/js/2.bda2e7f0.chunk.js.map",
     "index.html": "/motorcycle/index.html",
-    "precache-manifest.8e9c4034f20649d4a364d7df3d4f1522.js": "/motorcycle/precache-manifest.8e9c4034f20649d4a364d7df3d4f1522.js",
+    "precache-manifest.264f1343c7977b6ba86856c04149279c.js": "/motorcycle/precache-manifest.264f1343c7977b6ba86856c04149279c.js",
     "service-worker.js": "/motorcycle/service-worker.js",
     "static/css/2.f747b8b9.chunk.css.map": "/motorcycle/static/css/2.f747b8b9.chunk.css.map",
-    "static/css/main.d0be3325.chunk.css.map": "/motorcycle/static/css/main.d0be3325.chunk.css.map",
+    "static/css/main.2e1cafa5.chunk.css.map": "/motorcycle/static/css/main.2e1cafa5.chunk.css.map",
     "static/js/2.bda2e7f0.chunk.js.LICENSE.txt": "/motorcycle/static/js/2.bda2e7f0.chunk.js.LICENSE.txt",
     "static/media/100CC Red-min.png": "/motorcycle/static/media/100CC Red-min.eb7505a3.png",
     "static/media/100CCBLACKcolor.jpg": "/motorcycle/static/media/100CCBLACKcolor.d04bd92b.jpg",
@@ -36,7 +36,7 @@
     "static/media/HDPLUISREDangle.png": "/motorcycle/static/media/HDPLUISREDangle.08636558.png",
     "static/media/Jazba Black-min.jpg": "/motorcycle/static/media/Jazba Black-min.2802f1dd.jpg",
     "static/media/Jazba Red-min.jpg": "/motorcycle/static/media/Jazba Red-min.97d89413.jpg",
-    "static/media/index.css": "/motorcycle/static/media/fighter.97679871.jpg",
+    "static/media/navbar.css": "/motorcycle/static/media/fighter.97679871.jpg",
     "static/media/Orange-&-Black-min.png": "/motorcycle/static/media/Orange-&-Black-min.4fbfc800.png",
     "static/media/Red-&-Black-min.png": "/motorcycle/static/media/Red-&-Black-min.82de1538.png",
     "static/media/White-&-Black-min.png": "/motorcycle/static/media/White-&-Black-min.6bc4b4b8.png",
@@ -57,7 +57,7 @@
     "static/js/runtime-main.82f90447.js",
     "static/css/2.f747b8b9.chunk.css",
     "static/js/2.bda2e7f0.chunk.js",
-    "static/css/main.d0be3325.chunk.css",
+    "static/css/main.2e1cafa5.chunk.css",
     "static/js/main.7b09c17a.chunk.js"
   ]
 }
