@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3117230ba4bdf1167318eb12b1adf1b2",
+    "revision": "38be7339ab78aaf3ecd77377123203c7",
     "url": "/motorcycle/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/motorcycle/static/css/2.f747b8b9.chunk.css"
   },
   {
-    "revision": "fd0e43e3a2c497890d69",
+    "revision": "aa6463a9ac9da93b15d6",
     "url": "/motorcycle/static/css/main.2e1cafa5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/motorcycle/static/js/2.bda2e7f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd0e43e3a2c497890d69",
-    "url": "/motorcycle/static/js/main.4b88282c.chunk.js"
+    "revision": "aa6463a9ac9da93b15d6",
+    "url": "/motorcycle/static/js/main.9d8bb9f4.chunk.js"
   },
   {
     "revision": "76d06361b7798e81a969",
